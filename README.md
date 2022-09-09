@@ -1,6 +1,8 @@
 Я Михаил.
 Самые интересные проекты: 
 
+-EisenhowerMatrixServerFromExcel (Серверная часть заполнения БД из файла Excel)
+
 -GmapNetFramework (работа с библиотекой GMap.Net. Маркеры находятся в бд ms sql)
 
 -HelloAppEmpty (создание базы данных ms sql фильмов и работа с ней на основе Entitu Framework и ASP.NET)
